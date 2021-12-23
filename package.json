@@ -1,0 +1,24 @@
+{
+  "name": "restapi-nodejs",
+  "version": "1.0.0",
+  "description": "\"# apirest-node\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdelgado99/apirest-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdelgado99/apirest-node/issues"
+  },
+  "homepage": "https://github.com/jdelgado99/apirest-node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
